@@ -1,1 +1,1 @@
-# P_syringae_hypermutability
+# P. syringae hypermutability
